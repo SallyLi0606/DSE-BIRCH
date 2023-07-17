@@ -18,7 +18,7 @@ on static distances but also by considering dynamic discriminability based on de
 R version `4.2.0` is required
 * Build dependencies with pip
 ```bash
-conda create -n dse_birch python==3.10.11
+conda create -n dse_birch python==3.9.15
 conda activate dse_birch
 cd DSE-BIRCH
 pip install -r requirements.txt
